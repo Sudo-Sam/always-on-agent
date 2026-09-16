@@ -3,7 +3,7 @@
   "title": "Customer 'cannot complete checkout' (Acme Corp, 2400 users)",
   "status": "open",
   "severity": null,
-  "labels": ["customer-impact","test-label"],
+  "labels": ["customer-impact"],
   "assignee": null,
   "opened_at": "2026-05-20T07:33:09Z",
   "reporter": "customer-success@bts-synthetic.example",
